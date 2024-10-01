@@ -63,7 +63,7 @@ button,
 textarea,
 select {
     font: inherit;
-   
+   margin-right: 50px;
 }
 select{
     color:gray !important
